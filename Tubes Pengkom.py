@@ -15,7 +15,7 @@ class atm:
         def __init__(self,root):
                 self.root=root
                 blank_space=" "
-                self.root.title(130*blank_space+"ATM FTI 22")
+                self.root.title(110*blank_space+"ATM FTI 22")
                 self.root.geometry("774x760+280+0")
                 self.root.configure(background ='red')
 #Frame    
